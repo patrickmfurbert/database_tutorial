@@ -1,0 +1,6 @@
+# Nodejs
+back/node_modules/
+back/.env
+
+# dotenv environment variables file
+.env
